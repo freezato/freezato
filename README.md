@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @freezato
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Yurix Tool
+- 👀 Currently Version 1.3
+- 🌱 SS Tool
+- 💞️ Searching String Finder
 - 📫 How to reach me @freezato
 
 <!---
